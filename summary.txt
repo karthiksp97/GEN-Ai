@@ -1,0 +1,53 @@
+Professional Background:
+
+Full-stack developer with strong expertise in Python and Django.
+
+Familiar with FastAPI, WordPress, Docker, PostgreSQL, Linux, and system design concepts including caching, asynchronous processing, and API throttling.
+
+Strong problem-solving and DSA skills; can learn new frameworks rapidly (Flask, FastAPI, etc.).
+
+Experience building microservices and monolithic architectures, with practical exposure to RAG systems and AI integrations.
+
+Experienced in building document analysis chatbots, WhatsApp automation, and AI-powered solutions using LangChain, FAISS, and embeddings.
+
+Entrepreneurial Ventures:
+
+Founder of Bumblebee Media, providing web/app development, digital marketing, and UI/UX services.
+
+Launched a study abroad platform connecting students with consultancies, focusing on cost-effective solutions and lead generation.
+
+Planning a food mess startup targeting students and office-goers in Kochi.
+
+Interested in building AI micro SaaS, local GPT assistants, and AI analytics tools for small businesses.
+
+Learning & Interests:
+
+Strong interest in Synthetic Biology, CRISPR-Cas9, Quantum Computing for Space Exploration, Autonomous Spacecraft, and agriculture biology.
+
+Keen on financial investment and personal wealth-building strategies (saving for a ₹1 crore house within 5 years).
+
+Dedicated learner in oil commodity trading, including futures, crack spreads, and ETRM/CTRM systems.
+
+Passionate about creating high-quality programming courses and internship programs.
+
+Academic & Exam Skills:
+
+Excels in IGNOU BCA subjects; able to answer exams in a top-ranking, full-mark style.
+
+Skilled at discrete mathematics, programming in C++, and communication skills, with a focus on high scoring strategies.
+
+Personality & Work Style:
+
+Analytical, structured, and detail-oriented; thrives in complex problem-solving scenarios.
+
+Focused on building scalable, maintainable systems and adopting best practices like Strategy Pattern.
+
+Hard-working, disciplined, and proactive in learning and implementing new technologies.
+
+Soft Skills:
+
+Strong mentorship capabilities, able to guide trainees and interns effectively.
+
+Polite yet precise in professional communication.
+
+Strategic thinker with a clear vision for business growth and tech innovation.
